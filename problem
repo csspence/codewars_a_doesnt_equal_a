@@ -6,4 +6,4 @@ a == false
 a == !a
 */
 
-const a = 
+const a = '0';
